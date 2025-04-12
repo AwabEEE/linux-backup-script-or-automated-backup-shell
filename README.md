@@ -67,6 +67,6 @@ This project is part of the IBM course “Hands-on Introduction to Linux Command
 📜 View Certificate: Coursera Verified Certificate
 🙋‍♂️ Author
 
-Awab Milan
+Awab Abdelhadi Yagoub Abdallah
 📌 Electrical & Embedded Systems Enthusiast
 📬 GitHub Profile
